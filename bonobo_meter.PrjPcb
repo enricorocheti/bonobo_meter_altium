@@ -72,6 +72,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WQISFBGY
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for LoRa_board_(Phoebe)\Design Rule Check - board.html
+DItemRevisionGUID=
+
 [Parameter1]
 Name=<Author>
 Value=Enrico Oliveira Rocheti

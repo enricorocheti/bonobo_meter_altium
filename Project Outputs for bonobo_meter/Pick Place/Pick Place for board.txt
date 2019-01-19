@@ -1,0 +1,23 @@
+Altium Designer Pick and Place Locations
+C:\Users\User\Documents\AD17\Projects\bonobo_meter_altium\Project Outputs for bonobo_meter\Pick Place\Pick Place for board.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       19/01/19
+Time:       19:09
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mm
+
+Designator Comment    Layer    Footprint    Center-X(mm) Center-Y(mm) Rotation Description                                            
+"WEMOS D1" "WEMOS D1" TopLayer WEMOS_D1     39,6640mm    29,2027mm    0        "Arduino UNO Compatible wifi board based on ESP8266EX" 
+R1         R-US_R0603 TopLayer R0603        79,1679mm    23,0768mm    90       ""                                                     
+LED_ON     ""         TopLayer CHIPLED_0805 74,8278mm    23,3187mm    360      ""                                                     
+DHT22      04p        TopLayer 61300411121  86,6265mm    15,0968mm    90       "WR-PHD 2.54 mm THT Pin Header, 04p"                   
+DS3231     06p        TopLayer 61300611121  75,7676mm    53,8014mm    360      "WR-PHD 2.54 mm THT Pin Header, 06p"                   
+LCD        04p        TopLayer 61300411121  86,6177mm    31,3882mm    90       "WR-PHD 2.54 mm THT Pin Header, 04p"                   
+LDR        02p        TopLayer 61300211121  86,6265mm    44,7770mm    90       "WR-PHD 2.54 mm THT Pin Header, 02p"                   
+R3         R-US_R0603 TopLayer R0603        74,4029mm    47,6398mm    180      ""                                                     
+R2         R-US_R0603 TopLayer R0603        74,4029mm    43,5548mm    180      ""                                                     
+R0         R-US_R0603 TopLayer R0603        81,5194mm    44,5038mm    270      ""                                                     
